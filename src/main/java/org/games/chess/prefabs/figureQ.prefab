@@ -1,0 +1,10 @@
+figure_prefab5
+img/white_bishop.png
+100,100
+100,100
+0
+1
+False
+True
+Function^,^update^;^function^,^True^;^org.games.chess.src.figure.controllers.Queen
+None

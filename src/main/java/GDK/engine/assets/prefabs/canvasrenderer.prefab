@@ -1,0 +1,10 @@
+canvasrenderer_prefab
+None
+100,100
+100,100
+0
+1
+False
+True
+Function^,^update^;^function^,^True^;^GDK.engine.components.CanvasRenderer
+None

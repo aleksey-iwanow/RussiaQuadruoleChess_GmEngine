@@ -1,0 +1,10 @@
+Button
+None
+100,100
+200,60
+0
+1
+False
+True
+Function^,^update^;^function^,^True^;^GDK.engine.samples.Button$Text^,^string=text^;^int=sizef^;^string=colorf^,^Новая игра^;^24^;^#000000
+None
